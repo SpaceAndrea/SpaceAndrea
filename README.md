@@ -15,6 +15,7 @@ Specialized in Machine Learning & Artificial Intelligence, Python, LangChain, ML
 
 - <img src="https://github.com/SpaceAndrea/ScrapeMate/assets/145685548/c7dfa669-083a-402a-a593-545a41b4aafa" alt="ScrapeMate Logo" height="60"/> [ScrapeMate](https://github.com/SpaceAndrea/ScrapeMate)
 - <img src="https://github.com/SpaceAndrea/GalaxyClassifier/assets/145685548/31bf95a1-9be8-4937-9ce2-838b082c7aa6" alt="GalaxyClassifier Logo" height="60"/> [GalaxyClassifier](https://github.com/SpaceAndrea/GalaxyClassifier)
+- <img src="https://github.com/user-attachments/assets/9c76bbc2-2c8a-4411-91fc-8233cbc0d6b0" alt="Logo_TetrisHandGesture" height="60"/> [TetrisHandGesture](https://github.com/SpaceAndrea/Tetris_Hand_Gesture)
 
 ---
 
