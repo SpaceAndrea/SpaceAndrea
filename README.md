@@ -40,7 +40,7 @@ Chess & space lover · Gaming / Game development
 
 ---
 
-<p align="center"><i>"The universe is and we are"</i></p>
+<p align="center"><i>"The universe is, and we are."</i></p>
 
 
 <!--
