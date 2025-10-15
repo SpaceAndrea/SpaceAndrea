@@ -1,7 +1,12 @@
+<img src="https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572"/>
+
 # 🌌 Andrea Bianchini
 
 **AI Developer | R&D in AI Technologies**  
 Specialized in Machine Learning & Artificial Intelligence, Python, LangChain, ML Supervised/Unsupervised and Deep Neural Network
+
+## Main Skills
+[![My Skills](https://skillicons.dev/icons?i=py,azure,aws,docker,git,latex,notion,supabase,sklearn,tensorflow,vscode,mysql,html,css,)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28"/>
