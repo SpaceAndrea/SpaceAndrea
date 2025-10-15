@@ -32,7 +32,9 @@ Specializing in Python, LangChain, HTML/CSS
 
 ## ♟️ Interests
 
-Chess & space lover · Gaming / Game development
+- Chess player (sometimes)
+- Space lover
+- Interested in Game Development
 
 <p align="center">
   🚀 🧠 ♟️ 🌌
