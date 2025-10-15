@@ -13,8 +13,8 @@ Specialized in Machine Learning & Artificial Intelligence, Python, LangChain, ML
 
 ## 🛰️ Projects
 
-- <img src="https://github.com/SpaceAndrea/ScrapeMate/raw/main/.github/icon.png" alt="ScrapeMate" height="20"/> [ScrapeMate](https://github.com/SpaceAndrea/ScrapeMate)
-- <img src="https://github.com/SpaceAndrea/GalaxyClassifier/raw/main/.github/icon.png" alt="GalaxyClassifier" height="20"/> [GalaxyClassifier](https://github.com/SpaceAndrea/GalaxyClassifier)
+- <img src="https://github.com/SpaceAndrea/ScrapeMate/assets/145685548/c7dfa669-083a-402a-a593-545a41b4aafa" alt="ScrapeMate Logo" height="60"/> [ScrapeMate](https://github.com/SpaceAndrea/ScrapeMate)
+- <img src="https://github.com/SpaceAndrea/GalaxyClassifier/assets/145685548/31bf95a1-9be8-4937-9ce2-838b082c7aa6" alt="GalaxyClassifier Logo" height="60"/> [GalaxyClassifier](https://github.com/SpaceAndrea/GalaxyClassifier)
 
 ---
 
