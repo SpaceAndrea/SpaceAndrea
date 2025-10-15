@@ -36,7 +36,7 @@ Specialized in Machine Learning & Artificial Intelligence, Python, LangChain, ML
 - Interested in Game Development
 
 <p align="center">
-  🚀 🧠 ♟️ 🌌
+  🚀 ♟️ 🌌
 </p>
 
 ---
