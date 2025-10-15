@@ -1,7 +1,7 @@
 # 🌌 Andrea Bianchini
 
 **AI Developer | R&D in AI Technologies**  
-Specializing in Python, LangChain, HTML/CSS
+Specialized in Machine Learning & Artificial Intelligence, Python, LangChain, ML Supervised/Unsupervised and Deep Neural Network
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28"/>
